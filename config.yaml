@@ -1,0 +1,84 @@
+# IPTV 直播源自动获取配置
+
+# 分辨率阈值：只保留 1080p 及以上（按像素面积判定，容许 5% 误差，
+# 例如 1920x1076 视为 1080p）。可改为 720 等。
+min_resolution: 1080
+
+# 每个频道最多验证的候选源数量：0 = 不限制（验证全部候选）。
+# 如需控制验证耗时可改回如 4。
+candidates_per_channel: 0
+
+# 择优后每个频道保留的备用源数量（写入同一频道名的后续条目）
+backups_per_channel: 2
+
+# ffprobe 并发数（ffprobe 逻辑已注释停用，保留配置备用）
+probe_concurrency: 16
+# ffprobe 单条超时（秒），ffprobe 已停用，保留配置备用
+probe_timeout: 25
+
+# 分级漏斗验证（默认启用）：
+#   L1 播放列表HTTP检查+主列表RESOLUTION过滤；L2 首分片TS/fMP4校验+SPS解析分辨率
+# 并发按 2C1G 虚拟机调优：峰值内存约 200MB，全量约 10-25 分钟
+funnel:
+  l1_concurrency: 120   # L1 并发
+  l2_concurrency: 60    # L2 分片请求并发
+  http_timeout: 10      # 单请求超时（秒）
+  segment_bytes: 65536  # 首分片读取字节数
+
+# 出网代理（可选，如 http://127.0.0.1:7890），为空则直连。
+# 对抓取列表和 HTTP 延迟测量生效；ffprobe 通过 http_proxy 环境变量生效。
+proxy: ""
+
+# 输出 M3U 的 EPG 地址（写入 #EXTM3U 的 url-tvg 属性，留空则不写）
+epg_url: "https://live.fanmingming.cn/e.xml"
+
+# 上游播放列表。type: m3u / txt(kimwang 等「名称,地址」格式)
+# region_hint: 该源缺省地区（cn / foreign），影响无明确归属的频道分类
+# mirrors: raw.githubusercontent.com 直连失败时依次尝试的镜像前缀
+mirror_prefixes:
+  - "https://ghfast.top/"
+  - "https://gh-proxy.com/"
+  - "https://gh-proxy.org/"
+
+sources:
+  - name: vbskycn
+    type: m3u
+    region_hint: cn
+    url: https://live.zbds.top/tv/iptv4.m3u
+  - name: guovin
+    type: m3u
+    region_hint: cn
+    url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+  - name: iptv-org-cn
+    type: m3u
+    region_hint: cn
+    url: https://iptv-org.github.io/iptv/countries/cn.m3u
+  - name: iptv-org-all
+    type: m3u
+    region_hint: foreign
+    url: https://iptv-org.github.io/iptv/index.m3u
+  - name: yang-live
+    type: m3u
+    region_hint: cn
+    url: https://live.yang-1989.eu.org/Live.m3u
+  - name: suxuang
+    type: m3u
+    region_hint: cn
+    url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+  - name: free-tv
+    type: m3u
+    region_hint: foreign
+    url: https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+  - name: kimwang365
+    type: txt
+    region_hint: cn
+    url: https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365.m3u
+
+publish:
+  github:
+    # 仓库文件输出名
+    file: iptv_all.m3u
+    report: report.csv
+  r2:
+    # R2 对象键
+    key: "iptv/iptv_all.m3u"

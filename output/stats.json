@@ -1,0 +1,14 @@
+{
+  "elapsed_seconds": 325.6,
+  "channels_final": 892,
+  "entries_final": 921,
+  "candidates_probed": 15629,
+  "candidates_playable": 2773,
+  "regions": {
+    "cn-cctv": 3,
+    "cn-satellite": 10,
+    "cn-local": 117,
+    "cn-hmt": 2,
+    "foreign": 760
+  }
+}

@@ -1,0 +1,13 @@
+name = "iptv-subscription"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# 方式一：绑定 R2（在 Dashboard 创建 bucket 后填名字）
+# 并 `wrangler r2 object put <bucket>/iptv/iptv_all.m3u --file output/iptv_all.m3u`
+# [[r2_buckets]]
+# binding = "IPTV_BUCKET"
+# bucket_name = "iptv"
+
+# 方式二：只代理 GitHub raw，填你的仓库地址即可（注意 output/ 路径）
+[vars]
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/yourname/iptv-live/main/output/iptv_all.m3u"

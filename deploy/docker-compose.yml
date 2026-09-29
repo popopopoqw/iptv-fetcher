@@ -1,0 +1,20 @@
+services:
+  iptv-fetcher:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: iptv-fetcher
+    restart: unless-stopped
+    volumes:
+      - ../output:/app/output
+      - ../logs:/app/logs
+      - ../.env:/app/.env:ro
+    # 每日 03:00 运行：启动即跑一次，之后每天到点再跑
+    entrypoint: >
+      sh -c 'python -m iptv_fetcher || true;
+             while true; do
+               now=$$(date +%s);
+               next=$$(date -d "tomorrow 03:00" +%s);
+               sleep $$((next - now));
+               python -m iptv_fetcher || true;
+             done'

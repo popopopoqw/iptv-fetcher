@@ -1,0 +1,52 @@
+name: update-iptv
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # 每日 UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:        # 支持在 Actions 页面手动触发
+
+permissions:
+  contents: write           # 允许把验证结果提交回仓库
+
+concurrency:
+  group: update-iptv
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取并验证直播源
+        env:
+          # R2 发布可选：在仓库 Settings→Secrets and variables→Actions 配置
+          # 以下四个值即自动启用；不配置则跳过，结果仍会提交到本仓库
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: PYTHONPATH=src python -m iptv_fetcher
+        # 不传 --skip-publish：GitHub 推送因未配置 GH_TOKEN 自动跳过，
+        # R2 在 secrets 配好后自动生效，结果由下方步骤直接提交到本仓库
+
+      - name: 提交结果到仓库
+        run: |
+          git config user.name "iptv-fetcher-bot"
+          git config user.email "actions@github.com"
+          git add output/iptv_all.m3u output/report.csv output/stats.json
+          if git diff --cached --quiet; then
+            echo "本次无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "update playlist $(date -u '+%F %H:%M') UTC [skip ci]"
+          git push
