@@ -50,3 +50,22 @@ jobs:
           fi
           git commit -m "update playlist $(date -u '+%F %H:%M') UTC [skip ci]"
           git push
+
+      - name: 输出订阅链接与统计
+        run: |
+          REPO="${GITHUB_REPOSITORY}"
+          RAW="https://raw.githubusercontent.com/${REPO}/main/output/iptv_all.m3u"
+          CDN="https://cdn.jsdelivr.net/gh/${REPO}@main/output/iptv_all.m3u"
+          STATS=$(python3 -c "import json;s=json.load(open('output/stats.json'));print(f\"{s['channels_final']} 个频道 / {s['entries_final']} 条源, 可播放 {s['candidates_playable']}/{s['candidates_probed']}, 耗时 {s['elapsed_seconds']:.0f}s\")")
+          {
+            echo "### 订阅链接"
+            echo ""
+            echo "- raw：${RAW}"
+            echo "- jsDelivr（国内快）：${CDN}"
+            echo ""
+            echo "### 本次结果"
+            echo ""
+            echo "${STATS}"
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "订阅链接: $RAW"
+          echo "CDN链接: $CDN"
