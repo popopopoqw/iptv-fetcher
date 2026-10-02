@@ -1,14 +1,14 @@
 {
-  "elapsed_seconds": 221.4,
-  "channels_final": 1663,
-  "entries_final": 1714,
-  "candidates_probed": 15479,
-  "candidates_playable": 4424,
+  "elapsed_seconds": 205.8,
+  "channels_final": 1670,
+  "entries_final": 1717,
+  "candidates_probed": 15603,
+  "candidates_playable": 4379,
   "regions": {
     "cn-cctv": 3,
-    "cn-satellite": 10,
-    "cn-local": 141,
+    "cn-satellite": 12,
+    "cn-local": 142,
     "cn-hmt": 12,
-    "foreign": 1497
+    "foreign": 1501
   }
 }
