@@ -13,10 +13,14 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
+http://120.76.248.139/live/bfgd/4200000083.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视
+http://120.76.248.139/live/bfgd/4200000092.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视·备用1
 https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视·备用1
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
@@ -33,22 +37,26 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 #EXTINF:-1 tvg-name="福建海峡卫视" group-title="卫视",福建海峡卫视·备用1
 http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://120.76.248.139/live/bfgd/4200000095.m3u8
 #EXTINF:-1 tvg-name="2024年春晚" group-title="地方台",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="abcnewslive" group-title="地方台",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-name="amc音乐" group-title="地方台",AMC音乐
 https://AMChls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="asmrarale" group-title="地方台",ASMR_Arale
-https://cdn.ttvb.eu.org/twitch/asmr_arale
 #EXTINF:-1 tvg-name="astroaod" group-title="地方台",ASTRO AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-name="cbcnews" group-title="地方台",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 tvg-name="cetv1" group-title="地方台",CETV-1
+http://120.76.248.139/live/bfgd/4200000135.m3u8
 #EXTINF:-1 tvg-name="chaozhoupublicchannel" group-title="地方台",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="chifengcomprehensivenewschanel" group-title="地方台",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-name="colawaytv" group-title="地方台",ColawayTV
+https://cdn.ttvb.eu.org/twitch/colawaytv
 #EXTINF:-1 tvg-name="kangbatv" group-title="地方台",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="lanzhoucomprehensivenewschannel" group-title="地方台",Lanzhou Comprehensive News Channel
@@ -63,8 +71,6 @@ https://cdn.ttvb.eu.org/douyu/178432
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="rtbalkan（塞尔维亚语）" group-title="地方台",RT Balkan （塞尔维亚语）
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="rtde（德语）" group-title="地方台",RT DE（德语）
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="rtdocumentary（英语纪录）" group-title="地方台",RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="rtespañol（西语）" group-title="地方台",RT Español（西语）
@@ -77,40 +83,46 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="rthk32" group-title="地方台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="rawreporting" group-title="地方台",RawReporting
-https://cdn.ttvb.eu.org/twitch/rawreporting
-#EXTINF:-1 tvg-name="shouttv" group-title="地方台",ShoutTV
-https://cdn.ttvb.eu.org/twitch/shouttv
+#EXTINF:-1 tvg-name="theasylummovies" group-title="地方台",TheAsylumMovies
+https://cdn.ttvb.eu.org/twitch/theasylummovies
+#EXTINF:-1 tvg-name="therealelvira" group-title="地方台",TheRealElvira
+https://cdn.ttvb.eu.org/twitch/therealelvira
 #EXTINF:-1 tvg-name="viutv" group-title="地方台",Viutv
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="viutv" group-title="地方台",Viutv·备用1
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="viutv" group-title="地方台",Viutv·备用2
 http://r.jdshipin.com/TcKr2
+#EXTINF:-1 tvg-name="viutv" group-title="地方台",Viutv·备用2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="voatvchina" group-title="地方台",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="wildearth" group-title="地方台",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="wionnews" group-title="地方台",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="xleft小叮当" group-title="地方台",Xleft小叮当
+https://cdn.ttvb.eu.org/douyu/3168536
 #EXTINF:-1 tvg-name="zhejianginternationalchannel" group-title="地方台",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-name="challengesdiversion" group-title="地方台",challengesdiversion
-https://cdn.ttvb.eu.org/twitch/challengesdiversion
-#EXTINF:-1 tvg-name="zzc啊哦额" group-title="地方台",zzc啊哦额
-https://cdn.ttvb.eu.org/douyu/666743
+#EXTINF:-1 tvg-name="airportambiance" group-title="地方台",airportambiance
+https://cdn.ttvb.eu.org/twitch/airportambiance
+#EXTINF:-1 tvg-name="nicknayersina" group-title="地方台",nicknayersina
+https://cdn.ttvb.eu.org/twitch/nicknayersina
+#EXTINF:-1 tvg-name="「斗鱼」fifa" group-title="地方台",「斗鱼」FIFA
+https://cdn.ttvb.eu.org/douyu/7692166
 #EXTINF:-1 tvg-name="「斗鱼」jj斗地主" group-title="地方台",「斗鱼」JJ斗地主
 https://cdn.ttvb.eu.org/douyu/488743
+#EXTINF:-1 tvg-name="「斗鱼」云顶之弈" group-title="地方台",「斗鱼」云顶之弈
+https://cdn.ttvb.eu.org/douyu/522423
 #EXTINF:-1 tvg-name="「斗鱼」王者荣耀𝟙" group-title="地方台",「斗鱼」王者荣耀 𝟙
 https://cdn.ttvb.eu.org/douyu/1863767
 #EXTINF:-1 tvg-name="「斗鱼」第五人格" group-title="地方台",「斗鱼」第五人格
 https://cdn.ttvb.eu.org/douyu/3226194
 #EXTINF:-1 tvg-name="「斗鱼」绝地求生" group-title="地方台",「斗鱼」绝地求生
 https://cdn.ttvb.eu.org/douyu/100
-#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车" group-title="地方台",「斗鱼」跑跑卡丁车
-https://cdn.ttvb.eu.org/douyu/7722576
 #EXTINF:-1 tvg-name="「斗鱼」金铲铲之战" group-title="地方台",「斗鱼」金铲铲之战
 https://cdn.ttvb.eu.org/douyu/9715241
+#EXTINF:-1 tvg-name="三酒ouo" group-title="地方台",三酒OuO
+https://cdn.ttvb.eu.org/douyu/2421040
 #EXTINF:-1 tvg-name="中国村庄" group-title="地方台",中国村庄
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 #EXTINF:-1 tvg-name="中国蓝新闻" group-title="地方台",中国蓝新闻
@@ -137,18 +149,16 @@ https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔远景" group-title="地方台",云南大理崇圣寺三塔远景
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-#EXTINF:-1 tvg-name="亮剑" group-title="地方台",亮剑
-https://live.ottiptv.cc/huya/30080238
 #EXTINF:-1 tvg-name="亳州农村" group-title="地方台",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 tvg-name="亳州农村" group-title="地方台",亳州农村·备用1
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 #EXTINF:-1 tvg-name="六盘山红军长征景区" group-title="地方台",六盘山红军长征景区
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-name="北京科教" group-title="地方台",北京科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="南京玄武湖公园" group-title="地方台",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1 tvg-name="叫我老陈就好了" group-title="地方台",叫我老陈就好了
-https://cdn.ttvb.eu.org/douyu/74960
 #EXTINF:-1 tvg-name="四川峨眉山云海日出" group-title="地方台",四川峨眉山云海日出
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山远眺万佛顶" group-title="地方台",四川峨眉山远眺万佛顶
@@ -169,16 +179,14 @@ https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 #EXTINF:-1 tvg-name="安徽黟县西递牌坊" group-title="地方台",安徽黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 tvg-name="尤优baby" group-title="地方台",尤优Baby
-https://cdn.ttvb.eu.org/douyu/1769784
-#EXTINF:-1 tvg-name="崔杋圭五颜一" group-title="地方台",崔杋圭五颜一
-https://cdn.ttvb.eu.org/douyu/8189873
+#EXTINF:-1 tvg-name="嵊州新闻综合" group-title="地方台",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="平湖新闻综合" group-title="地方台",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="平湖民生休闲" group-title="地方台",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-#EXTINF:-1 tvg-name="平湖民生休闲" group-title="地方台",平湖民生休闲·备用1
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="平湖民生休闲" group-title="地方台",平湖民生休闲·备用1
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="广安公共" group-title="地方台",广安公共
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1 tvg-name="广西桂林漓江景区" group-title="地方台",广西桂林漓江景区
@@ -186,27 +194,35 @@ https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 tvg-name="开化国家公园" group-title="地方台",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 tvg-name="开化国家公园" group-title="地方台",开化国家公园·备用1
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-#EXTINF:-1 tvg-name="开化国家公园" group-title="地方台",开化国家公园·备用2
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="开化新闻综合" group-title="地方台",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="张掖七彩丹霞" group-title="地方台",张掖七彩丹霞
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-name="我是特种兵之利刃出鞘" group-title="地方台",我是特种兵之利刃出鞘
+https://live.ottiptv.cc/yy/37999586
+#EXTINF:-1 tvg-name="斗鱼港剧" group-title="地方台",斗鱼港剧
+http://www.goodiptv.club/douyu/5061550
 #EXTINF:-1 tvg-name="无线新闻" group-title="地方台",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 tvg-name="无线新闻" group-title="地方台",无线新闻·备用1
 http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-name="无线新闻" group-title="地方台",无线新闻·备用1
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="无线星河" group-title="地方台",无线星河
 http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-name="晋江电视台" group-title="地方台",晋江电视台
 http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+#EXTINF:-1 tvg-name="暴雪游戏" group-title="地方台",暴雪游戏频道
+https://cdn.ttvb.eu.org/douyu/525207
 #EXTINF:-1 tvg-name="望乡台" group-title="地方台",望乡台
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 tvg-name="来宾综合" group-title="地方台",来宾综合
+http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="梨园" group-title="地方台",梨园
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-name="水浒传" group-title="地方台",水浒传
 https://live.ottiptv.cc/yy/1353873252
+#EXTINF:-1 tvg-name="水浒传" group-title="地方台",水浒传·备用1
+http://live.ottiptv.cc/huya/26355860
 #EXTINF:-1 tvg-name="江津新闻" group-title="地方台",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="江苏南京牛首山" group-title="地方台",江苏南京牛首山
@@ -232,13 +248,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" group-title="地方台",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" group-title="地方台",浙江国际·备用1
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江国际" group-title="地方台",浙江国际·备用2
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" group-title="地方台",浙江国际·备用2
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江少儿" group-title="地方台",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" group-title="地方台",浙江少儿·备用1
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江少儿" group-title="地方台",浙江少儿·备用1
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科" group-title="地方台",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" group-title="地方台",浙江教科影视
@@ -275,12 +291,10 @@ https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界御笔峰" group-title="地方台",湖南张家界御笔峰
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 tvg-name="湖州公共民生" group-title="地方台",湖州公共民生
-http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 #EXTINF:-1 tvg-name="滦平新闻" group-title="地方台",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滨海新闻综合" group-title="地方台",滨海新闻综合
-http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+#EXTINF:-1 tvg-name="狂飙" group-title="地方台",狂飙
+https://live.ottiptv.cc/yy/1355142167
 #EXTINF:-1 tvg-name="狮子山鸟瞰丽江古城" group-title="地方台",狮子山鸟瞰丽江古城
 https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 #EXTINF:-1 tvg-name="玛纳斯" group-title="地方台",玛纳斯
@@ -293,6 +307,8 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 tvg-name="祁门综合" group-title="地方台",祁门综合
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+#EXTINF:-1 tvg-name="神奇的维c" group-title="地方台",神奇的维C
+https://cdn.ttvb.eu.org/douyu/9830066
 #EXTINF:-1 tvg-name="福建武夷山玉女峰" group-title="地方台",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 #EXTINF:-1 tvg-name="精灵宝可梦" group-title="地方台",精灵宝可梦
@@ -311,20 +327,26 @@ https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="荆门新闻综合" group-title="地方台",荆门新闻综合·备用1
 https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
-#EXTINF:-1 tvg-name="蝦愛橘子" group-title="地方台",蝦愛橘子
-https://cdn.ttvb.eu.org/twitch/shuteye_orange
+#EXTINF:-1 tvg-name="诸暨新闻综合" group-title="地方台",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="贵州省兴义市万峰林" group-title="地方台",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 #EXTINF:-1 tvg-name="辽宁体育" group-title="地方台",辽宁体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" group-title="地方台",辽宁北方
 http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
-#EXTINF:-1 tvg-name="辽宁影视" group-title="地方台",辽宁影视
-http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧" group-title="地方台",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 tvg-name="辽宁教育青少" group-title="地方台",辽宁教育青少
+http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" group-title="地方台",辽宁生活
 http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" group-title="地方台",辽宁经济
+http://120.76.248.139/live/bfgd/4200000076.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" group-title="地方台",辽宁都市
 http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+#EXTINF:-1 tvg-name="辽宁都市" group-title="地方台",辽宁都市·备用1
+http://120.76.248.139/live/bfgd/4200000610.m3u8
 #EXTINF:-1 tvg-name="辽宁青少" group-title="地方台",辽宁青少
 http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 #EXTINF:-1 tvg-name="都江堰鱼嘴" group-title="地方台",都江堰鱼嘴
@@ -333,6 +355,8 @@ https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="陕西洋县国宝朱鹮02" group-title="地方台",陕西洋县国宝朱鹮02
 https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 tvg-name="雷疯小叔" group-title="地方台",雷疯小叔
+https://cdn.ttvb.eu.org/douyu/291514
 #EXTINF:-1 tvg-name="青岛崂山双福" group-title="地方台",青岛崂山双福
 https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 #EXTINF:-1 tvg-name="鸣沙山" group-title="地方台",鸣沙山
@@ -346,13 +370,11 @@ https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山排云亭" group-title="地方台",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山新闻综合" group-title="地方台",黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-#EXTINF:-1 tvg-name="黄山新闻综合" group-title="地方台",黄山新闻综合·备用1
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-name="黄山新闻综合" group-title="地方台",黄山新闻综合·备用1
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-name="黄花城水长城01" group-title="地方台",黄花城水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
-#EXTINF:-1 tvg-name="龙游新闻综合" group-title="地方台",龙游新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="龙游生活娱乐" group-title="地方台",龙游生活娱乐
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="tvbplus" group-title="港澳台",TVB Plus
@@ -368,23 +390,23 @@ http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰卫视台" group-title="港澳台",凤凰卫视台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯·备用1
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯·备用1
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港·备用1
-http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港·备用2
 http://r.jdshipin.com/NfC0f
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港·备用1
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台",凤凰香港·备用2
+http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-name="华丽翡翠台" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-name="华丽翡翠台" group-title="港澳台",华丽翡翠台·备用1
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-name="明珠台" group-title="港澳台",明珠台
-http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1 tvg-name="明珠台" group-title="港澳台",明珠台·备用1
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="明珠台" group-title="港澳台",明珠台·备用1
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-name="特种兵之火凤凰" group-title="港澳台",特种兵之火凤凰
 https://live.ottiptv.cc/huya/29982636
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",翡翠台
@@ -395,24 +417,22 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-name="靖天映画" group-title="港澳台",靖天映画
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+#EXTINF:-1 tvg-name="skynewsarabia" group-title="国外-Ae",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-name="skynewsarabia" group-title="国外-其他",Sky News Arabia·备用1
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 tvg-name="wanasah" group-title="国外-Ae",Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-name="news24ⓢ" group-title="国外-Al",News 24 Ⓢ
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="tv7albania" group-title="国外-Al",TV 7 Albania
 https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
-#EXTINF:-1 tvg-name="biobiotv" group-title="国外-Cl",Bio Bio TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="elpingüinotv" group-title="国外-Cl",El Pingüino TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="mega" group-title="国外-Cl",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="retromusictvⓢ" group-title="国外-Cz",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="taevastv7" group-title="国外-Ee",Taevas TV7
-https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="taevastv7" group-title="国外-其他",Taevas TV7·备用1
-https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="canalextremadura" group-title="国外-Es",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 #EXTINF:-1 tvg-name="etb1" group-title="国外-Es",ETB1
@@ -427,16 +447,12 @@ https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="kutonen" group-title="国外-Fi",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="taivastv7" group-title="国外-Fi",Taivas TV7
-https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="taivastv7" group-title="国外-其他",Taivas TV7·备用1
-https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="arirangworld" group-title="国外-Gb",Arirang World
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-name="4e" group-title="国外-Gr",4E
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="4e" group-title="国外-其他",4E·备用1
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="deltaevros" group-title="国外-Gr",Delta Evros
+http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
 #EXTINF:-1 tvg-name="onechannel" group-title="国外-Gr",One Channel
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="star" group-title="国外-Gr",Star
@@ -537,10 +553,6 @@ https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="telebruzzano" group-title="国外-It",Tele Bruzzano
 https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
-#EXTINF:-1 tvg-name="telemolise" group-title="国外-It",Tele Molise
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:-1 tvg-name="telemolise" group-title="国外-其他",Tele Molise·备用1
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="teleritmo" group-title="国外-It",Tele Ritmo
 https://ed04.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
 #EXTINF:-1 tvg-name="telecoloresalerno" group-title="国外-It",Telecolore Salerno
@@ -549,6 +561,10 @@ https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 tvg-name="turbo" group-title="国外-It",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="tvprato" group-title="国外-It",Tv Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1 tvg-name="tvprato" group-title="国外-其他",Tv Prato·备用1
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 tvg-name="tvmpalermo" group-title="国外-It",Tvm Palermo
 https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-name="videonovara" group-title="国外-It",Videonovara
@@ -567,18 +583,22 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-raku
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
 #EXTINF:-1 tvg-name="smashtv" group-title="国外-Mt",Smash TV
 https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
+#EXTINF:-1 tvg-name="estrellatv" group-title="国外-Mx",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-name="estrellatv" group-title="国外-其他",Estrella TV·备用1
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="quierotv" group-title="国外-Mx",Quiero TV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTINF:-1 tvg-name="nhnieuws" group-title="国外-Nl",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-name="qatartelevision2" group-title="国外-Qa",Qatar Television 2
-https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+#EXTINF:-1 tvg-name="qatartelevision" group-title="国外-Qa",Qatar Television
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-name="qatartelevision" group-title="国外-其他",Qatar Television·备用1
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="qatartelevisiontheholyquran" group-title="国外-Qa",Qatar Television The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
 #EXTINF:-1 tvg-name="архыз24" group-title="国外-Ru",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="звезда" group-title="国外-Ru",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-name="россиякультураⓢ" group-title="国外-Ru",Россия-Культура Ⓢ
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-name="kanal10sverige" group-title="国外-Se",Kanal 10 Sverige
@@ -591,16 +611,16 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="nbcnews" group-title="国外-Us",NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-name="newsmaxtv" group-title="国外-Us",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="newsmaxtv" group-title="国外-其他",Newsmax TV·备用1
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="&tvinternational" group-title="国外-其他",&TV International (1080p)
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name=".red" group-title="国外-其他",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-name=".redhd" group-title="国外-其他",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-name="13festival" group-title="国外-其他",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-name="13humor" group-title="国外-其他",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-name="13kids" group-title="国外-其他",13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-name="13realities" group-title="国外-其他",13 Realities (1080p)
@@ -615,6 +635,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 tvg-name="360°" group-title="国外-其他",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-name="4sidestv" group-title="国外-其他",4 SiDES TV (1080p)
+https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-name="48hours" group-title="国外-其他",48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-name="4kurd" group-title="国外-其他",4Kurd
@@ -687,14 +709,14 @@ http://51.75.127.199:3141/annnews/index.m3u8
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="apatv" group-title="国外-其他",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="astv" group-title="国外-其他",AS TV (900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-name="at5" group-title="国外-其他",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="atglive" group-title="国外-其他",ATG Live (720p)
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-name="atv(turkiye)" group-title="国外-其他",ATV (Turkiye) (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-name="atvalanya" group-title="国外-其他",ATV Alanya (1080p)
-https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-name="atxn1" group-title="国外-其他",ATXN1 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
 #EXTINF:-1 tvg-name="atxn2" group-title="国外-其他",ATXN2 (1080p)
@@ -703,8 +725,6 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f1
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-name="aweinternational" group-title="国外-其他",AWE International (720p)
 https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
-#EXTINF:-1 tvg-name="aweplus" group-title="国外-其他",AWE Plus (720p)
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-name="axnlatinamerica" group-title="国外-其他",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-name="aajentertainment" group-title="国外-其他",Aaj Entertainment (1080p)
@@ -713,6 +733,8 @@ https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-name="abazatv" group-title="国外-其他",Abaza TV (1080p)
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 tvg-name="absoluterealitybywetv" group-title="国外-其他",Absolute Reality by WE TV
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="accuweathernow" group-title="国外-其他",AccuWeather NOW (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-name="action24" group-title="国外-其他",Action24
@@ -729,14 +751,12 @@ https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 https://stream.afontovo.ru/hd.m3u8
 #EXTINF:-1 tvg-name="africa24english" group-title="国外-其他",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-name="africa24sport" group-title="国外-其他",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-name="afrolandtv" group-title="国外-其他",AfroLandTV (1080p)
 https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 tvg-name="agriculturatv" group-title="国外-其他",Agricultura TV (1080p)
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ahlulbayttv" group-title="国外-其他",Ahlulbayt TV (1080p)
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
-#EXTINF:-1 tvg-name="aiknewssd" group-title="国外-其他",Aik News SD
-https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-name="alarabiyabusiness" group-title="国外-其他",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="alarabiyaenglish" group-title="国外-其他",Al Arabiya English (1080p)
@@ -751,8 +771,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:-1 tvg-name="alhorreyatv" group-title="国外-其他",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-name="aliraqianews" group-title="国外-其他",Al Iraqia News (720p)
-https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-name="aljadeed" group-title="国外-其他",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-name="aljazeera" group-title="国外-其他",Al Jazeera
@@ -793,28 +811,26 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-name="alfaomegatv" group-title="国外-其他",Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-name="alghadeertv" group-title="国外-其他",Alghadeer TV (1080p)
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-name="alikhbariasyria" group-title="国外-其他",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
-#EXTINF:-1 tvg-name="allgautv" group-title="国外-其他",Allgau TV (1080p)
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="allocine" group-title="国外-其他",Allo Cine (1080p)
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-name="alphatv" group-title="国外-其他",Alpha TV (1080p)
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="altmediatv" group-title="国外-其他",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-name="althania" group-title="国外-其他",Althania (1080p)
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="altoadigetv" group-title="国外-其他",AltoAdige TV (720p)
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="alwesamtv" group-title="国外-其他",Alwesam TV (1080p)
 https://stream.addresses-sat.com/Alwesam/index.m3u8
-#EXTINF:-1 tvg-name="amazonsat" group-title="国外-其他",Amazon Sat (1080p)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="americateve" group-title="国外-其他",America TeVe (1080p)
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-name="ameritrade" group-title="国外-其他",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ammantv" group-title="国外-其他",Amman TV (720p)
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-name="amutv" group-title="国外-其他",Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
 #EXTINF:-1 tvg-name="anandtv(india)" group-title="国外-其他",Anand TV (India) (1080p)
@@ -829,24 +845,20 @@ https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="antiquesroadtrip" group-title="国外-其他",Antiques Road Trip (1080p)
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-name="arabicatv" group-title="国外-其他",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-name="aratuon" group-title="国外-其他",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="arewethereyet?" group-title="国外-其他",Are We There Yet? (1080p)
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="arirangtv" group-title="国外-其他",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="arirangun" group-title="国外-其他",Arirang UN (1080p)
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="arktv" group-title="国外-其他",Ark TV (1080p) [Not 24/7]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="arkhyz24" group-title="国外-其他",Arkhyz 24 (1080p)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-name="asharqdiscovery" group-title="国外-其他",Asharq Discovery (1080p)
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="asharqnews" group-title="国外-其他",Asharq News (1080p)
 https://live-news.asharq.com/asharq.m3u8
-#EXTINF:-1 tvg-name="asiandrama" group-title="国外-其他",Asian Drama (1080p)
-http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-name="asiancrush" group-title="国外-其他",AsianCrush (1080p)
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="astrahan.rusport" group-title="国外-其他",Astrahan.Ru Sport (720p)
@@ -855,6 +867,8 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-name="atfal&mawahebtv" group-title="国外-其他",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-name="augsburgtv" group-title="国外-其他",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="aupurtelevision" group-title="国外-其他",Aupur Television (1080p)
 https://canal.aupurtv.co/live/stream/index.m3u8
 #EXTINF:-1 tvg-name="ayaztv" group-title="国外-其他",Ayaz TV (720p)
@@ -874,9 +888,9 @@ https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-name="batvpublicchannel" group-title="国外-其他",BATV Public Channel
 https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="bbcdrama" group-title="国外-其他",BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="bbcdrama" group-title="国外-其他",BBC Drama·备用1
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="bbcdrama" group-title="国外-其他",BBC Drama·备用1
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="bbcearthczechia" group-title="国外-其他",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="bbcearthus" group-title="国外-其他",BBC Earth US (1080p)
@@ -889,8 +903,6 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 http://51.75.127.199:3141/bbcnewshindi/index.m3u8
 #EXTINF:-1 tvg-name="bbcnewsnorthamerica" group-title="国外-其他",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-name="bbstv(southkorea)" group-title="国外-其他",BBS TV (South Korea) (1080p)
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="bbstv(uganda)" group-title="国外-其他",BBS TV (Uganda)
 https://bbstv.ug/hls/ch01/index.m3u8
 #EXTINF:-1 tvg-name="bnrnieuwsradio[geoblocked]" group-title="国外-其他",BNR Nieuwsradio (720p) [Geo-blocked]
@@ -911,8 +923,6 @@ https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-name="backstage" group-title="国外-其他",Backstage (1080p)
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
-#EXTINF:-1 tvg-name="balikpapantv" group-title="国外-其他",Balikpapan TV (720p)
-http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="barazatv" group-title="国外-其他",Baraza TV (1080p)
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="barazatvdeephouse" group-title="国外-其他",Baraza TV Deep House (720p)
@@ -947,6 +957,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a3
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
 #EXTINF:-1 tvg-name="bilyonaryonewschannel[geoblocked]" group-title="国外-其他",Bilyonaryo News Channel (1080p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-name="biobiotv" group-title="国外-其他",Bio Bio TV (1080p)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="black" group-title="国外-其他",Black (1080p)
 http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-name="blacknewschannel" group-title="国外-其他",Black News Channel (1080p)
@@ -995,6 +1007,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-on
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 #EXTINF:-1 tvg-name="cbsnews" group-title="国外-其他",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="cbssportsgolazonetwork" group-title="国外-其他",CBS Sports Golazo Network (720p)
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 tvg-name="cbswhiotv" group-title="国外-其他",CBS WHIO-TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="cbswjaxtv" group-title="国外-其他",CBS WJAX-TV (1080p)
@@ -1047,6 +1061,8 @@ http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 #EXTINF:-1 tvg-name="californiamusicchannel" group-title="国外-其他",California Music Channel (1080p)
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="canthotv" group-title="国外-其他",Can Tho TV (1080p)
+https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-name="canal10(elsalvador)" group-title="国外-其他",Canal 10 (El Salvador) (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-name="canal10durango" group-title="国外-其他",Canal 10 Durango (1080p)
@@ -1057,18 +1073,10 @@ http://15.204.246.24:8080/Canal13HD/index.m3u8
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-name="canal2gualeguay" group-title="国外-其他",Canal 2 Gualeguay
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
-#EXTINF:-1 tvg-name="canal2misiones" group-title="国外-其他",Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-name="canal2nextvrafaela" group-title="国外-其他",Canal 2 NexTV Rafaela (720p)
-https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-name="canal2quellon" group-title="国外-其他",Canal 2 Quellon (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="canal21tachira" group-title="国外-其他",Canal 21 Tachira (360p)
-https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 tvg-name="canal26(mexico)" group-title="国外-其他",Canal 26 (Mexico) (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="canal3lapampa" group-title="国外-其他",Canal 3 La Pampa (1080p)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-name="canal33tijuana" group-title="国外-其他",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-name="canal4rd" group-title="国外-其他",Canal 4 RD (1080p)
@@ -1085,14 +1093,14 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-name="canalrcn" group-title="国外-其他",Canal RCN (1080p)
 http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-name="canalshowsport" group-title="国外-其他",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-name="canalsurandalucia" group-title="国外-其他",Canal Sur Andalucia (1080p)
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-name="canaluol" group-title="国外-其他",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-name="canaldelsol" group-title="国外-其他",Canal del Sol (1080p) [Not 24/7]
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
-#EXTINF:-1 tvg-name="canal+actioneuropeslovakia" group-title="国外-其他",Canal+ Action Europe Slovakia (720p)
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-name="canelatv" group-title="国外-其他",Canela TV (1080p)
 https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
 #EXTINF:-1 tvg-name="canneslerinstv" group-title="国外-其他",Cannes Lerins TV (1080p)
@@ -1101,8 +1109,6 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-name="carastv" group-title="国外-其他",Caras TV (1080p)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="caribbeangospeltv" group-title="国外-其他",Caribbean Gospel TV
-https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
 #EXTINF:-1 tvg-name="catholictv" group-title="国外-其他",Catholic TV (1080p)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-name="celebritynamegame[geoblocked]" group-title="国外-其他",Celebrity Name Game (1080p) [Geo-blocked]
@@ -1155,6 +1161,8 @@ https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
 #EXTINF:-1 tvg-name="cloudflaretv" group-title="国外-其他",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-name="cnewsbharat" group-title="国外-其他",Cnews Bharat (720p)
+https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="coldcasefiles" group-title="国外-其他",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-name="colorscineplexhd" group-title="国外-其他",Colors Cineplex HD (1080p)
@@ -1163,6 +1171,8 @@ http://51.75.127.199:3141/colorscineplexhd/index.m3u8
 http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
 #EXTINF:-1 tvg-name="comedycentrallatinamerica" group-title="国外-其他",Comedy Central Latin America (1080p)
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 tvg-name="comedychannel" group-title="国外-其他",Comedy Channel (1080p)
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
 #EXTINF:-1 tvg-name="comerciotv" group-title="国外-其他",Comercio TV (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
 #EXTINF:-1 tvg-name="conexionpositivatelevision" group-title="国外-其他",Conexion Positiva Television
@@ -1191,16 +1201,12 @@ https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-name="ddnewshd" group-title="国外-其他",DD News HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-name="ddsports" group-title="国外-其他",DD Sports (720p)
-https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-name="ddsportssd" group-title="国外-其他",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-name="dltv13" group-title="国外-其他",DLTV 13 (1080p)
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-name="dltv2" group-title="国外-其他",DLTV 2 (1080p)
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-name="dltv4" group-title="国外-其他",DLTV 4 (1080p)
-https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-name="dltv14" group-title="国外-其他",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-name="dltv15" group-title="国外-其他",DLTV 15 (1080p)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-name="drtv" group-title="国外-其他",DRTV (1080p)
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-name="dtvdenbosch" group-title="国外-其他",DTV Den Bosch (1080p)
@@ -1289,8 +1295,6 @@ https://live.dottotv.ro/index.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="dr.genescott" group-title="国外-其他",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
-#EXTINF:-1 tvg-name="dreamtv" group-title="国外-其他",Dream TV (480p)
-https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-name="dubaitvinternational" group-title="国外-其他",Dubai TV International (1080p)
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 tvg-name="duckdynasty" group-title="国外-其他",Duck Dynasty (1080p)
@@ -1301,8 +1305,6 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name="e40" group-title="国外-其他",E40 (1080p)
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-name="eacnewstv" group-title="国外-其他",EAC News TV
-https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-name="ebshd" group-title="国外-其他",EBS HD (1080p)
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 #EXTINF:-1 tvg-name="entchannel" group-title="国外-其他",ENT Channel (720p)
@@ -1313,6 +1315,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 tvg-name="ertnewshd" group-title="国外-其他",ERT News HD (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-name="ertv[geoblocked]" group-title="国外-其他",ERTV (1080p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 tvg-name="espn8theocho" group-title="国外-其他",ESPN8: The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-name="etvcomedy" group-title="国外-其他",ETV Comedy (1080p)
@@ -1349,8 +1353,6 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTINF:-1 tvg-name="elsonorense" group-title="国外-其他",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 tvg-name="elche7tv" group-title="国外-其他",Elche 7 TV (576p)
-https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-name="electricnow" group-title="国外-其他",Electric Now (720p)
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="elevationchurchnetwork" group-title="国外-其他",Elevation Church Network (1080p)
@@ -1371,12 +1373,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-name="estrellanews" group-title="国外-其他",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="estrellatv" group-title="国外-其他",Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="estrellatv" group-title="国外-Mx",Estrella TV·备用1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-name="estrellatvwmbctv" group-title="国外-其他",Estrella TV WMBC-TV (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
+#EXTINF:-1 tvg-name="etnaespressochannel" group-title="国外-其他",Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-name="europe1tv" group-title="国外-其他",Europe 1 TV (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-name="expressentertainment" group-title="国外-其他",Express Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-name="extremakidstv" group-title="国外-其他",Extrema Kids TV [Not 24/7]
@@ -1415,8 +1417,6 @@ https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playli
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="falastinitv" group-title="国外-其他",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-name="farmodatv" group-title="国外-其他",FarmodaTV (1080p)
-https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="fashion" group-title="国外-其他",Fashion (1080p)
 http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 tvg-name="fashiontv" group-title="国外-其他",Fashion TV
@@ -1449,6 +1449,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="floracing" group-title="国外-其他",FloRacing (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="fokustv" group-title="国外-其他",Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
 #EXTINF:-1 tvg-name="folktv" group-title="国外-其他",Folk TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1 tvg-name="formula" group-title="国外-其他",Formula (1080p)
@@ -1507,16 +1509,18 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-name="ghosthunters" group-title="国外-其他",Ghost Hunters (1080p)
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="girasoltv" group-title="国外-其他",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
 #EXTINF:-1 tvg-name="globalfashionchannel" group-title="国外-其他",Global Fashion Channel (1080p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="globotv(honduras)" group-title="国外-其他",Globo TV (Honduras)
 https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
-#EXTINF:-1 tvg-name="goldenjade" group-title="国外-其他",Golden Jade (1080p)
-http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="gong" group-title="国外-其他",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-name="good2" group-title="国外-其他",Good 2 (720p)
 https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-name="goodideatv" group-title="国外-其他",Good Idea TV (720p) [Not 24/7]
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="goodtv(taiwan)" group-title="国外-其他",Good TV (Taiwan) (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-name="gracenetwork" group-title="国外-其他",Grace Network (720p)
@@ -1565,10 +1569,10 @@ https://account20.livebox.co.in/charleshls/live.m3u8
 https://eu1.servers10.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-name="hell'skitchen" group-title="国外-其他",Hell's Kitchen (1080p)
 https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+#EXTINF:-1 tvg-name="hellenicparliamenttv" group-title="国外-其他",Hellenic Parliament TV (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 tvg-name="hellenictv" group-title="国外-其他",Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 tvg-name="hisglorytv" group-title="国外-其他",His Glory TV (1080p)
-https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8
 #EXTINF:-1 tvg-name="historia" group-title="国外-其他",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-name="history(unitedstates)" group-title="国外-其他",History (United States) (720p)
@@ -1577,8 +1581,6 @@ http://212.5.144.156:8080/history/index.m3u8
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="historytv18hd[geoblocked]" group-title="国外-其他",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="hluttaws&d" group-title="国外-其他",Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-name="holyquranradio" group-title="国外-其他",Holy Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="homefulus" group-title="国外-其他",Homeful US (1080p)
@@ -1613,8 +1615,6 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 http://51.75.127.199:3141/india24x7/index.m3u8
 #EXTINF:-1 tvg-name="indiatvspeednews" group-title="国外-其他",India TV Speed News (1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 tvg-name="ingushetia" group-title="国外-其他",Ingushetia (1080p)
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-name="intocrime" group-title="国外-其他",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="invasivatv" group-title="国外-其他",Invasiva TV (720p)
@@ -1627,12 +1627,14 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-name="iquiquetv" group-title="国外-其他",Iquique TV (1080p)
 https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
+#EXTINF:-1 tvg-name="ishtartvsd" group-title="国外-其他",Ishtar TV SD (1080p)
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-name="islitatv" group-title="国外-其他",Islita TV (1080p)
+https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-name="itiswrittentv" group-title="国外-其他",It Is Written TV (1080p)
 https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-name="jc1" group-title="国外-其他",JC1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-name="jade" group-title="国外-其他",Jade (1080p)
-http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="jaliscotv" group-title="国外-其他",Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-name="jeddahradio" group-title="国外-其他",Jeddah Radio (1080p)
@@ -1653,8 +1655,6 @@ https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-name="jordanarchive" group-title="国外-其他",Jordan Archive (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-#EXTINF:-1 tvg-name="jordancomedy" group-title="国外-其他",Jordan Comedy (1080p)
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-name="jordankitchen" group-title="国外-其他",Jordan Kitchen (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-name="jordansongs" group-title="国外-其他",Jordan Songs (1080p)
@@ -1669,6 +1669,8 @@ https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg0
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-name="k24" group-title="国外-其他",K24 (1080p)
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-name="kbcnews" group-title="国外-其他",KBC News (1080p)
+https://stream.ottlive.co.in/kbcnews/index.m3u8
 #EXTINF:-1 tvg-name="kcmindia[geoblocked]" group-title="国外-其他",KCM India (1080p) [Geo-blocked]
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="knmusictv" group-title="国外-其他",KN Music TV
@@ -1691,10 +1693,14 @@ https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 #EXTINF:-1 tvg-name="kan11" group-title="国外-其他",Kan 11 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="kanal3" group-title="国外-其他",Kanal 3 (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 tvg-name="kanal7avrupa" group-title="国外-其他",Kanal 7 Avrupa (720p) [Not 24/7]
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-name="kanald(turkiye)" group-title="国外-其他",Kanal D (Turkiye) (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-name="kentturk" group-title="国外-其他",Kent Turk (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 tvg-name="kika" group-title="国外-其他",KiKA (1080p) [Not 24/7]
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-name="kinotvhd" group-title="国外-其他",Kino TV HD (1080p)
@@ -1703,8 +1709,6 @@ http://176.118.197.101/KinoTvHD/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="knockbhakti" group-title="国外-其他",Knock Bhakti (1080p)
 https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
-#EXTINF:-1 tvg-name="kongresstv" group-title="国外-其他",Kongress TV (1080p)
-https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-name="kontrachannel" group-title="国外-其他",Kontra Channel (1080p)
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-name="koogitv" group-title="国外-其他",Koogi TV (1080p)
@@ -1727,22 +1731,26 @@ https://livestream.liveone.com/lc1/p1.m3u8
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-name="laclave" group-title="国外-其他",La Clave (720p)
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ladescargatv[geoblocked]" group-title="国外-其他",La Descarga TV [Geo-blocked]
-https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-name="lametrotv" group-title="国外-其他",La Metro TV (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="lanuestra" group-title="国外-其他",La Nuestra (1080p)
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="landletv" group-title="国外-其他",Landle TV (1080p) [Not 24/7]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-name="lasestrellaslatinamerica" group-title="国外-其他",Las Estrellas Latin America (1080p)
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 tvg-name="latinapodcast" group-title="国外-其他",Latina Podcast (720p)
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="latinochanneltv" group-title="国外-其他",Latino Channel TV (1080p)
+https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
 #EXTINF:-1 tvg-name="lefigarotviledefrance" group-title="国外-其他",Le Figaro TV Ile-de-France (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-name="legislativeassemblyofelsalvador" group-title="国外-其他",Legislative Assembly of El Salvador (1080p) [Not 24/7]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-name="legochannel" group-title="国外-其他",Lego Channel (1080p)
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="lifetv(turkiye)" group-title="国外-其他",Life TV (Turkiye) (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-name="litustv" group-title="国外-其他",Litus TV (720p) [Not 24/7]
+https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-name="localish" group-title="国外-其他",Localish (1080p)
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:-1 tvg-name="logostv(spain)" group-title="国外-其他",Logos TV (Spain) (1080p) [Not 24/7]
@@ -1769,12 +1777,12 @@ https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m
 https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="luystv" group-title="国外-其他",Luys TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="m1" group-title="国外-其他",M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="mbc1" group-title="国外-其他",MBC 1 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 tvg-name="mbc1egypt" group-title="国外-其他",MBC 1 Egypt (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-name="mbc1usa[geoblocked]" group-title="国外-其他",MBC 1 USA (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-name="mbc3usa[geoblocked]" group-title="国外-其他",MBC 3 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-name="mbc4" group-title="国外-其他",MBC 4 (1080p)
@@ -1799,6 +1807,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-name="mbcmood" group-title="国外-其他",MBC Mood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 tvg-name="mbcpersia" group-title="国外-其他",MBC Persia (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-name="mbc+drama" group-title="国外-其他",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-name="merutv" group-title="国外-其他",MERU TV (720p) [Not 24/7]
@@ -1813,16 +1823,10 @@ https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-name="mntwwortv" group-title="国外-其他",MNT WWOR-TV
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1 tvg-name="mrtv" group-title="国外-其他",MRTV
-https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:-1 tvg-name="mrtvfarmer" group-title="国外-其他",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-name="mrtventertainment" group-title="国外-其他",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 tvg-name="mrtvnrc" group-title="国外-其他",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
-#EXTINF:-1 tvg-name="mrtvnews" group-title="国外-其他",MRTV News
-https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
-#EXTINF:-1 tvg-name="mrtvsports" group-title="国外-其他",MRTV Sports [Not 24/7]
-https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-name="msg" group-title="国外-其他",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-name="mtc" group-title="国外-其他",MTC
@@ -1865,32 +1869,42 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-name="mastalk" group-title="国外-其他",Mas Talk (1080p)
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-name="match4" group-title="国外-其他",Match4 (1080p)
+http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-name="matele" group-title="国外-其他",Matele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-name="maverickblackcinema" group-title="国外-其他",Maverick Black Cinema (1080p)
-https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="mazhavilmanoramahd" group-title="国外-其他",Mazhavil Manorama HD (1080p)
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
 #EXTINF:-1 tvg-name="mcleod'sdaughters" group-title="国外-其他",McLeod's Daughters (1080p)
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="mega(chile)" group-title="国外-其他",Mega (Chile) (1080p)
-http://15.204.246.24:8080/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-name="mega2" group-title="国外-其他",Mega 2 (1080p)
 http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1 tvg-name="megatvjaen" group-title="国外-其他",Mega TV Jaen (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
+#EXTINF:-1 tvg-name="meganoticiasahora" group-title="国外-其他",Meganoticias Ahora (1080p)
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
+#EXTINF:-1 tvg-name="meiahmoviechannel" group-title="国外-其他",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-name="mercyandtruthministriestelevision" group-title="国外-其他",Mercy and Truth Ministries Television (720p)
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 #EXTINF:-1 tvg-name="mexiquensetv" group-title="国外-其他",Mexiquense TV (720p)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-name="mh1music" group-title="国外-其他",Mh 1 Music (720p)
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
-#EXTINF:-1 tvg-name="mitv" group-title="国外-其他",MiTV (720p)
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="mimusicaromantica" group-title="国外-其他",Mi Musica Romantica (1080p)
+http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-name="miavisiontv" group-title="国外-其他",Miavision TV (1080p) [Not 24/7]
 https://edge.essastream.com/miavisiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="midnightpulp" group-title="国外-其他",Midnight Pulp (1080p)
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="midpenmediacenterchannel26" group-title="国外-其他",Midpen Media Center Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 tvg-name="midpenmediacenterchannel28" group-title="国外-其他",Midpen Media Center Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-name="midpenmediacenterchannel29" group-title="国外-其他",Midpen Media Center Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-name="midpenmediacenterchannel30" group-title="国外-其他",Midpen Media Center Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-name="midpenmediacenterchannel75" group-title="国外-其他",Midpen Media Center Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-name="mierschtv" group-title="国外-其他",MierschTV
 https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
 #EXTINF:-1 tvg-name="mirbelogorya[geoblocked]" group-title="国外-其他",Mir Belogorya (720p) [Geo-blocked]
@@ -1899,6 +1913,8 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="missiontv" group-title="国外-其他",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1 tvg-name="mixkurdy" group-title="国外-其他",Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-name="mnautv" group-title="国外-其他",Mnau TV (1080p)
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="moldova1" group-title="国外-其他",Moldova 1 (1080p)
@@ -1955,8 +1971,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="mytimemovienetworkeast" group-title="国外-其他",MyTime Movie Network East (1080p)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="myanmarinternationaltv" group-title="国外-其他",Myanmar International TV
-https://mrtvott.com/cache/MITV/master.m3u8
 #EXTINF:-1 tvg-name="mysterysciencetheater3000" group-title="国外-其他",Mystery Science Theater 3000 (1080p)
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 #EXTINF:-1 tvg-name="mythbusters" group-title="国外-其他",Mythbusters (1080p)
@@ -2041,10 +2055,12 @@ https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 #EXTINF:-1 tvg-name="ntv(turkiye)" group-title="国外-其他",NTV (Turkiye)
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-name="naftemporikitv" group-title="国外-其他",Naftemporiki TV (1080p)
-https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:-1 tvg-name="ntvtelugu" group-title="国外-其他",NTV Telugu (1080p)
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-name="naruto" group-title="国外-其他",Naruto (1080p)
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="nationalgeographic(croatia)" group-title="国外-其他",National Geographic (Croatia) (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-name="nationalgeographic(mexico)" group-title="国外-其他",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-name="nationalgeographiclatinamerica" group-title="国外-其他",National Geographic Latin America (1080p)
@@ -2109,14 +2125,20 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 #EXTINF:-1 tvg-name="newsworld" group-title="国外-其他",NewsWorld (1080p)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-name="nexthd" group-title="国外-其他",Next HD (480p)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-name="newsmaxtv" group-title="国外-其他",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="newsmaxtv" group-title="国外-Us",Newsmax TV·备用1
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="nickelodeon(croatia)" group-title="国外-其他",Nickelodeon (Croatia) (1080p)
 http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="nickelodeonjunior" group-title="国外-其他",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-name="nicktoons(france)" group-title="国外-其他",Nicktoons (France) (1080p)
+http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="nidaealislamradio" group-title="国外-其他",Nidae AlIslam Radio (1080p)
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-name="niederbayerntv" group-title="国外-其他",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 #EXTINF:-1 tvg-name="niederbayerntvdeggendorf&straubing" group-title="国外-其他",Niederbayern TV Deggendorf & Straubing (1080p)
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-name="nikijunior" group-title="国外-其他",Niki Junior (1080p)
@@ -2131,8 +2153,6 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-name="nourtv" group-title="国外-其他",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-name="nova(serbia)" group-title="国外-其他",Nova (Serbia) (1080p)
-https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-name="novatv" group-title="国外-其他",Nova TV (1080p)
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-name="now80's" group-title="国外-其他",Now 80's
@@ -2163,12 +2183,16 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-name="okkosport" group-title="国外-其他",Okko Sport (1080p)
 http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-name="olayturktv[geoblocked]" group-title="国外-其他",OlayTurk TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-name="olitv(chile)" group-title="国外-其他",Oli TV (Chile) (1080p)
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-name="omansportstv" group-title="国外-其他",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="omantv" group-title="国外-其他",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="omegachannel" group-title="国外-其他",Omega Channel (576i)
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-name="ontv4u[geoblocked]" group-title="国外-其他",OnTV4U (1080p) [Geo-blocked]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-name="ondacadiz" group-title="国外-其他",Onda Cadiz (720p)
@@ -2189,8 +2213,6 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-name="outsidetv" group-title="国外-其他",Outside TV (1080p)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ovaciontv" group-title="国外-其他",Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-name="overtime" group-title="国外-其他",Overtime (1080p)
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 #EXTINF:-1 tvg-name="pbs[geoblocked]" group-title="国外-其他",PBS (1080p) [Geo-blocked]
@@ -2221,6 +2243,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-name="pac12insider" group-title="国外-其他",Pac-12 Insider (1080p)
 https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="pacificislandnetwork" group-title="国外-其他",Pacific Island Network (1080p)
+https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
 #EXTINF:-1 tvg-name="padrepiotv" group-title="国外-其他",Padre Pio TV (1080p)
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="parliamenttv(newzealand)" group-title="国外-其他",Parliament TV (New Zealand) (1080p)
@@ -2245,8 +2269,6 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="persianaseries" group-title="国外-其他",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="placid" group-title="国外-其他",Placid (1080p) [Not 24/7]
-https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-name="planet100.9fm" group-title="国外-其他",Planet 100.9 FM (1080p)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-name="plenatv" group-title="国外-其他",Plena TV (720p)
@@ -2265,12 +2287,24 @@ https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-name="polsatgameshd" group-title="国外-其他",Polsat Games HD (1080p)
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 tvg-name="polsatviasatexplore" group-title="国外-其他",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
 #EXTINF:-1 tvg-name="popcorncentral" group-title="国外-其他",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-name="positivtv" group-title="国外-其他",Positiv TV (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-name="powerdance" group-title="国外-其他",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="powerlove" group-title="国外-其他",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="powernationtv" group-title="国外-其他",PowerNation TV (1080p)
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="powerturkakustik" group-title="国外-其他",PowerTurk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="powerturkslow" group-title="国外-其他",PowerTurk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="powerturktaptaze" group-title="国外-其他",PowerTurk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="powervisiontv" group-title="国外-其他",Powervision TV (720p)
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-name="pravasichannel" group-title="国外-其他",Pravasi Channel (1080p)
@@ -2279,12 +2313,18 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
 #EXTINF:-1 tvg-name="premiersports" group-title="国外-其他",Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-name="prensalatinatv" group-title="国外-其他",Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-name="prima(russia)" group-title="国外-其他",Prima (Russia) (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-name="primacool" group-title="国外-其他",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-name="primashow" group-title="国外-其他",Prima Show (1080p)
 http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="primatv(romania)hd" group-title="国外-其他",Prima TV (Romania) HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 tvg-name="primertv" group-title="国外-其他",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-name="primocanale" group-title="国外-其他",Primocanale (1080p) [Not 24/7]
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="privesc.eutv" group-title="国外-其他",Privesc.Eu TV (2160p)
@@ -2303,10 +2343,6 @@ https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 tvg-name="qatartvtheholyquran" group-title="国外-其他",Qatar TV The Holy Quran (1080p)
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
-#EXTINF:-1 tvg-name="qatartelevision" group-title="国外-其他",Qatar Television
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="qatartelevision" group-title="国外-Qa",Qatar Television·备用1
-https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 #EXTINF:-1 tvg-name="qelloconcertsbystingray" group-title="国外-其他",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="qwesttv" group-title="国外-其他",Qwest TV (1080p)
@@ -2317,24 +2353,24 @@ https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjaz
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-name="radiodiscounttv" group-title="国外-其他",RADIO DISCOunt TV (1080p)
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-name="rcctv" group-title="国外-其他",RCC TV (1080p) [Not 24/7]
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-name="rcnhd2" group-title="国外-其他",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-name="rcnnovelas" group-title="国外-其他",RCN Novelas (1080p)
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-name="rctv(unitedstates)" group-title="国外-其他",RCTV (United States) (720p)
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="rctv3" group-title="国外-其他",RCTV3 (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="rfmtv" group-title="国外-其他",RFM TV [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 #EXTINF:-1 tvg-name="rjtv" group-title="国外-其他",RJTV (1080p)
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="rtarabic[geoblocked]" group-title="国外-其他",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-name="rtbalkan" group-title="国外-其他",RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
-#EXTINF:-1 tvg-name="rtde" group-title="国外-其他",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-name="rtdocumentary[geoblocked]" group-title="国外-其他",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="rtespañolⓖ" group-title="国外-其他",RT Español Ⓖ
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="rtfrance[geoblocked]" group-title="国外-其他",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-name="rtindia" group-title="国外-其他",RT India (1080p)
@@ -2377,20 +2413,16 @@ https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 https://stream.radio350.nl/hls/radio350.m3u8
 #EXTINF:-1 tvg-name="radioancon" group-title="国外-其他",Radio Ancon (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-name="radiobocairenttv" group-title="国外-其他",Radio Bocairent TV (1080p) [Not 24/7]
+http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-name="radiocontemporaneacoihueco" group-title="国外-其他",Radio Contemporanea Coihueco (720p)
 https://tv.arkeo.cl:19360/8046/8046.m3u8
-#EXTINF:-1 tvg-name="radioelsembrador" group-title="国外-其他",Radio El Sembrador (720p)
-https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-name="radioguairatv" group-title="国外-其他",Radio Guaira TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tvg-name="radiohogar" group-title="国外-其他",Radio Hogar (720p)
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
-#EXTINF:-1 tvg-name="radiolaserenatv" group-title="国外-其他",Radio La Serena TV (720p)
-https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-name="radiomaster" group-title="国外-其他",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-name="radionorbatv" group-title="国外-其他",Radio Norba Tv
-https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="radioomegatv" group-title="国外-其他",Radio Omega TV (720p) [Not 24/7]
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-name="radioondadigital" group-title="国外-其他",Radio Onda Digital (1080p)
@@ -2437,6 +2469,8 @@ https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="redbulltvus" group-title="国外-其他",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="red+" group-title="国外-其他",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-name="redebrasil" group-title="国外-其他",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="reformatv" group-title="国外-其他",Reforma TV (1080p)
@@ -2445,14 +2479,14 @@ https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-name="republickannada" group-title="国外-其他",Republic Kannada (720p)
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+#EXTINF:-1 tvg-name="retroplus2" group-title="国外-其他",Retro Plus 2 (720p)
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-name="retrocrush" group-title="国外-其他",RetroCrush (1080p)
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="reuterstv" group-title="国外-其他",Reuters TV
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="revolt" group-title="国外-其他",Revolt (720p)
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-#EXTINF:-1 tvg-name="rialtv" group-title="国外-其他",Rial TV (720p)
-https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-name="roarkokitv" group-title="国外-其他",Roar KOKI-TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="romanticatv" group-title="国外-其他",Romantica TV (1080p)
@@ -2469,10 +2503,14 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-name="ruta66tv" group-title="国外-其他",Ruta 66 TV (1080p) [Not 24/7]
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
+#EXTINF:-1 tvg-name="rwandatv" group-title="国外-其他",Rwanda TV (480p) [Not 24/7]
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-name="ryanandfriends" group-title="国外-其他",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ryongnamsantelevision" group-title="国外-其他",Ryongnamsan Television (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-name="scorbytv" group-title="国外-其他",S Corby TV (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 #EXTINF:-1 tvg-name="splayevent" group-title="国外-其他",S Play Event (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 #EXTINF:-1 tvg-name="stomsings" group-title="国外-其他",S Tom Sings (1080p)
@@ -2501,8 +2539,6 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="sumtvenglish" group-title="国外-其他",SUMtv English (1080p)
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="sumtvlatino" group-title="国外-其他",SUMtv Latino (1080p)
-https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="svbc4" group-title="国外-其他",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="swr3visualradio" group-title="国外-其他",SWR 3 Visual Radio (720p)
@@ -2525,6 +2561,8 @@ https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-name="sanatv" group-title="国外-其他",Sana TV (1080p)
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+#EXTINF:-1 tvg-name="sangkemtv" group-title="国外-其他",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-name="sansadtv1hd" group-title="国外-其他",Sansad TV 1 HD (1080p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-name="sansadtv2hd" group-title="国外-其他",Sansad TV 2 HD (1080p)
@@ -2549,8 +2587,8 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 #EXTINF:-1 tvg-name="semerkandtv" group-title="国外-其他",Semerkand TV (1080p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="setantasports1hd" group-title="国外-其他",Setanta Sports 1 HD
-https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="senalestv" group-title="国外-其他",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
 #EXTINF:-1 tvg-name="sever" group-title="国外-其他",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="shababfm" group-title="国外-其他",Shabab FM (720p) [Not 24/7]
@@ -2569,24 +2607,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-name="shout!factorytv" group-title="国外-其他",Shout! Factory TV (1080p)
 https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
+#EXTINF:-1 tvg-name="showtimefamilyzone" group-title="国外-其他",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="shubhtv" group-title="国外-其他",Shubh TV (1080p)
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 #EXTINF:-1 tvg-name="sicarditv" group-title="国外-其他",Sicardi TV (720p)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-name="sistemamichoacanodetv" group-title="国外-其他",Sistema Michoacano de TV (1080p) [Not 24/7]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-name="skynewsarabia" group-title="国外-其他",Sky News Arabia
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:-1 tvg-name="skynewsarabia" group-title="国外-Ae",Sky News Arabia·备用1
-https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-name="skynewsarabiasd" group-title="国外-其他",Sky News Arabia SD (1080p) [Not 24/7]
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-name="skynewsarabiavertical" group-title="国外-其他",Sky News Arabia Vertical (1080p)
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:-1 tvg-name="skynewsarabiaverticalsd" group-title="国外-其他",Sky News Arabia Vertical SD (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-name="skysportscrickethd" group-title="国外-其他",Sky Sports Cricket HD
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-name="sonychannel(argentina)" group-title="国外-其他",Sony Channel (Argentina) (1080p)
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-name="sonychannelandes" group-title="国外-其他",Sony Channel Andes (1080p)
@@ -2595,6 +2629,8 @@ http://15.204.246.24:8080/SonyHD/index.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-name="sonykalhindi" group-title="国外-其他",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="sonymax[geoblocked]" group-title="国外-其他",Sony Max (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-name="sonyoneblacklist" group-title="国外-其他",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="sonyonefavoris" group-title="国外-其他",Sony One Favoris (1080p)
@@ -2635,8 +2671,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 #EXTINF:-1 tvg-name="starmoviesselecthd" group-title="国外-其他",Star Movies Select HD (1080p)
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1 tvg-name="startv(moldova)" group-title="国外-其他",Star TV (Moldova)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1 tvg-name="starzcomedy" group-title="国外-其他",Starz Comedy (1080p)
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-name="stingrayclassicrock" group-title="国外-其他",Stingray Classic Rock (1080p)
@@ -2687,8 +2721,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_ch
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="stingraytoday'slatinpop" group-title="国外-其他",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="storiesbyamc" group-title="国外-其他",Stories by AMC
-https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="stubru" group-title="国外-其他",StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1 tvg-name="studiouniversallatinamerica" group-title="国外-其他",Studio Universal Latin America (1080p)
@@ -2701,6 +2733,8 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=20
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-name="suchtv" group-title="国外-其他",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 tvg-name="superchannel12" group-title="国外-其他",Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-name="superqpanama" group-title="国外-其他",Super Q Panama (1080p)
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 tvg-name="superhitz" group-title="国外-其他",Superhitz (1080p)
@@ -2741,12 +2775,14 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="tjktv" group-title="国外-其他",TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-name="tmchd[geoblocked]" group-title="国外-其他",TMC HD (1080p) [Geo-blocked]
-http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-name="tma" group-title="国外-其他",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-name="tntnovelas" group-title="国外-其他",TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-name="todayallday" group-title="国外-其他",TODAY All Day (1080p)
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="toiglobal" group-title="国外-其他",TOI Global (1080p)
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-name="topbarca" group-title="国外-其他",TOP Barca (1080p)
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="trt1" group-title="国外-其他",TRT 1 (1440p)
@@ -2759,6 +2795,8 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="trtdiyanetcocuk" group-title="国外-其他",TRT Diyanet Cocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="trtgenc[geoblocked]" group-title="国外-其他",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="trthaber" group-title="国外-其他",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="trtkurdi" group-title="国外-其他",TRT Kurdi (720p)
@@ -2801,24 +2839,24 @@ https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 tvg-name="tvmonaco" group-title="国外-其他",TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-name="tvmulhouse" group-title="国外-其他",TV Mulhouse (1080p)
-http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-name="tvnatal" group-title="国外-其他",TV Natal (1080p)
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-name="tvnoe[geoblocked]" group-title="国外-其他",TV Noe (720p) [Geo-blocked]
 https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-name="tvoberfranken" group-title="国外-其他",TV Oberfranken (1080p) [Not 24/7]
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="tvopoja" group-title="国外-其他",TV Opoja (720p) [Not 24/7]
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-name="tvpassofundo" group-title="国外-其他",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="tvpublicafueguina" group-title="国外-其他",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-name="tvregionalnalubin" group-title="国外-其他",TV Regionalna Lubin (1080p)
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-name="tvsaoraimundo" group-title="国外-其他",TV Sao Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-name="tvsulbahia" group-title="国外-其他",TV Sul Bahia (320p)
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="tvteuta" group-title="国外-其他",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="tvtorun" group-title="国外-其他",TV Torun (1080p) [Not 24/7]
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="tvug" group-title="国外-其他",TV UG (1080p) [Not 24/7]
@@ -2909,12 +2947,18 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTINF:-1 tvg-name="tvriworld" group-title="国外-其他",TVRI World (1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-name="tvriyogyakarta" group-title="国外-其他",TVRI Yogyakarta (720p)
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-name="tvenlinea" group-title="国外-其他",TVenLinea (1080p)
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-name="tvideonews" group-title="国外-其他",TVideoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-name="taevastv7" group-title="国外-其他",Taevas TV7
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="taevastv7" group-title="国外-Ee",Taevas TV7·备用1
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="taivastv7" group-title="国外-其他",Taivas TV7
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="taivastv7" group-title="国外-Fi",Taivas TV7·备用1
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="talktv" group-title="国外-其他",TalkTV (1080p)
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="tarab" group-title="国外-其他",Tarab (1080p)
@@ -2931,10 +2975,14 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="tayariwesttv" group-title="国外-其他",Tayari West TV (1080p)
 https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-name="tele1" group-title="国外-其他",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-name="teledominicanatv" group-title="国外-其他",Tele Dominicana TV (720p) [Not 24/7]
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="telelouange" group-title="国外-其他",Tele Louange (1080p)
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-name="telemolise" group-title="国外-其他",Tele Molise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="telepam" group-title="国外-其他",Tele Pam (1080p)
 https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="telepeyi" group-title="国外-其他",Tele Peyi (720p)
@@ -2959,6 +3007,8 @@ https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/p
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-name="telemax(dominicanrepublic)" group-title="国外-其他",Telemax (Dominican Republic) (1080p) [Not 24/7]
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="telemicrointernacional" group-title="国外-其他",Telemicro Internacional (720p)
+http://45.228.234.60:8880/play/a05f/index.m3u8
 #EXTINF:-1 tvg-name="telemundoeasthd" group-title="国外-其他",Telemundo East HD (1080p)
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-name="telemundoknsd" group-title="国外-其他",Telemundo KNSD (1080p) [Not 24/7]
@@ -3011,6 +3061,8 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="thecountrynetwork" group-title="国外-其他",The Country Network (1080p)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="thecowboychannelcanada" group-title="国外-其他",The Cowboy Channel Canada (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="thedesignnetwork" group-title="国外-其他",The Design Network (1080p)
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="thefirsttv" group-title="国外-其他",The First TV (1080p)
@@ -3035,8 +3087,6 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="ticavision" group-title="国外-其他",TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-#EXTINF:-1 tvg-name="tidetv" group-title="国外-其他",Tide TV (1080p)
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="tiktokradiobrasil" group-title="国外-其他",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-name="timesnownavbharat" group-title="国外-其他",Times Now Navbharat (1080p)
@@ -3049,14 +3099,12 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-name="tollytv" group-title="国外-其他",Tolly TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-#EXTINF:-1 tvg-name="toracanal69" group-title="国外-其他",Tora Canal 69
-https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-name="totalcrime" group-title="国外-其他",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-name="totalmusic" group-title="国外-其他",Totalmusic (1080p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-name="totalmusic80s" group-title="国外-其他",Totalmusic 80s (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="totalmusic2000s" group-title="国外-其他",Totalmusic 2000s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="totalmusicconcerts" group-title="国外-其他",Totalmusic Concerts (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="totalmusicdance" group-title="国外-其他",Totalmusic Dance (720p)
@@ -3079,12 +3127,12 @@ https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="tsargradtv[geoblocked]" group-title="国外-其他",Tsargrad TV (1080p) [Geo-blocked]
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+#EXTINF:-1 tvg-name="tutv" group-title="国外-其他",Tu TV (720p)
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="turismohd" group-title="国外-其他",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-name="turno" group-title="国外-其他",Turno (720p)
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1 tvg-name="tvprato" group-title="国外-其他",Tv Prato
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
-#EXTINF:-1 tvg-name="tvprato" group-title="国外-It",Tv Prato·备用1
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="tvoetv" group-title="国外-其他",Tvoe TV (1080p)
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="tvoyetvyumor" group-title="国外-其他",Tvoye TV Yumor (1080p)
@@ -3125,16 +3173,14 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-name="vicetv" group-title="国外-其他",VICE TV (1080p)
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-name="vnmtv" group-title="国外-其他",VNM TV (576p)
-http://51.75.127.199:3141/vnmtv/index.m3u8
 #EXTINF:-1 tvg-name="vsin" group-title="国外-其他",VSiN (720p)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-name="vallenuevotv" group-title="国外-其他",Valle Nuevo TV
-https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-name="value24tv" group-title="国外-其他",Value 24 TV
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:-1 tvg-name="vavtv" group-title="国外-其他",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="vegaslifetv" group-title="国外-其他",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 #EXTINF:-1 tvg-name="vegavisioncanal18" group-title="国外-其他",Vegavision Canal 18 (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="venevisioninternacional" group-title="国外-其他",Venevision Internacional (720p)
@@ -3187,6 +3233,8 @@ https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="wlmb" group-title="国外-其他",WLMB (1080p)
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+#EXTINF:-1 tvg-name="wpstv" group-title="国外-其他",WPS-TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-name="wsocnow[geoblocked]" group-title="国外-其他",WSOC Now (1080p) [Geo-blocked]
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 tvg-name="wanteddeadoralive" group-title="国外-其他",Wanted: Dead or Alive (720p)
@@ -3197,8 +3245,6 @@ https://newproxy3.vidivu.tv/waptv/index.m3u8
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-name="waypointtv" group-title="国外-其他",Waypoint TV (1080p)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="wesporttv" group-title="国外-其他",We Sport TV
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-name="wetv" group-title="国外-其他",We TV (1080p)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-name="wedotvamor" group-title="国外-其他",Wedo TV Amor (1080p)
@@ -3247,6 +3293,8 @@ https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-name="xploretv" group-title="国外-其他",Xplore TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-name="yrfmusic" group-title="国外-其他",YRF Music (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="yahoo!finance" group-title="国外-其他",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="yesnetwork" group-title="国外-其他",Yes Network (720p)
@@ -3271,14 +3319,10 @@ https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="zeebanglahd" group-title="国外-其他",Zee Bangla HD (1080p)
 http://51.75.127.199:3141/zeebanglahd/index.m3u8
-#EXTINF:-1 tvg-name="zeecinemaluhd" group-title="国外-其他",Zee Cinemalu HD (1080p)
-http://51.75.127.199:3141/zeecinemaluhd/index.m3u8
 #EXTINF:-1 tvg-name="zeekeralamhd" group-title="国外-其他",Zee Keralam HD (1080p)
 http://51.75.127.199:3141/zeekeralamhd/index.m3u8
 #EXTINF:-1 tvg-name="zeeone" group-title="国外-其他",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="zeepowerhd" group-title="国外-其他",Zee Power HD (1080p)
-http://51.75.127.199:3141/zeepowerhd/index.m3u8
 #EXTINF:-1 tvg-name="zeetalkies" group-title="国外-其他",Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
 #EXTINF:-1 tvg-name="zeetalkieshd" group-title="国外-其他",Zee Talkies HD (1080p)
@@ -3287,8 +3331,6 @@ http://51.75.127.199:3141/zeetalkieshd/index.m3u8
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="zitatatv" group-title="国外-其他",Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="zonam" group-title="国外-其他",Zona M
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
 #EXTINF:-1 tvg-name="zvezda" group-title="国外-其他",Zvezda (1080p)
 http://51.158.144.33:2021/zvezda/index.m3u8
 #EXTINF:-1 tvg-name="zvezdaplushd" group-title="国外-其他",Zvezda Plus HD (1080p)
@@ -3327,8 +3369,6 @@ http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="likegecko)chrome/124.0.0.0safari/537.36"grouptitle="sports",sport2" group-title="国外-其他",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-name="likegecko)chrome/129.0.0.0safari/537.36"grouptitle="undefined",tvbahia" group-title="国外-其他",like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Undefined",TV Bahia (1080i)
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="likegecko)chrome/130.0.0.0safari/537.36"grouptitle="movies",film+(czechrepublic)" group-title="国外-其他",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+ (Czech Republic)
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="likegecko)chrome/130.0.0.0safari/537.36"grouptitle="sports",eurosport4kczechia" group-title="国外-其他",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Eurosport 4K Czechia
